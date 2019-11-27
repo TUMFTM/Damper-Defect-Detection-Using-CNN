@@ -1,0 +1,37 @@
+Total of 7 sensor channels
+Length per channel 5.120000 s
+Number of datapoints: 512
+Alignment of sensor channels:
+ACC_X ACC_Y YAW_RATE SPEED_FL SPEED_FR SPEED_RL SPEED_RR
+Overlap between observations/sequences: 0 datapoints
+Label indices: See global label mapping, LabelID.xlsx
+Applied detrend? 0
+Sensor channel names:
+A_FlexRay__ACLNX_MASSCNTR__ACLNX_COG ACC_X
+A_FlexRay__ACLNY_MASSCNTR__ACLNY_COG ACC_Y
+A_FlexRay__VYAW_VEH__VYAW_VEH YAW_RATE
+A_FlexRay__AVL_RPM_WHL__AVL_RPM_WHL_FLH SPEED_FL
+A_FlexRay__AVL_RPM_WHL__AVL_RPM_WHL_FRH SPEED_FR
+A_FlexRay__AVL_RPM_WHL__AVL_RPM_WHL_RLH SPEED_RL
+A_FlexRay__AVL_RPM_WHL__AVL_RPM_WHL_RRH SPEED_RR
+AVL_STEA_DV STEERING_WHEEL_ANGLE
+STEA_FTAX_EFFV STEERING_ANGLE
+ATTA_ESTI SIDESLIP_ANGLE
+
+Additional information
+useParallel: 1
+fs: 100
+t: 5.120000e+00
+overlap: 0
+min_speed: 30
+max_acc_x: 1
+max_acc_y: 1
+useLabel: labelIsolation
+d_wheel: 6.350000e-01
+splitTrainingData: 7.000000e-01
+numParallelWorkers: 2
+n_sensors: 7
+detrend: 0
+detrend_mode: movmean
+filename: Label_DD_ReiterEngineering.xlsx
+foldername: W:\Projekte\Fahrwerkdiagnose\Datenanalyse\Datensatz\
