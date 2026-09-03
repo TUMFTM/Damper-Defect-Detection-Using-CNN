@@ -29,7 +29,7 @@ jupyter-client==5.2.3
 jupyter-console==5.2.0
 jupyter-core==4.4.0
 kiwisolver==1.0.1
-Markdown==2.6.11
+Markdown==3.8.1
 MarkupSafe==1.0
 matplotlib==2.2.2
 matplotlib2tikz==0.6.17
