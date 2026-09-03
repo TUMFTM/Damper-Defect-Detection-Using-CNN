@@ -33,7 +33,7 @@ Markdown==2.6.11
 MarkupSafe==1.0
 matplotlib==2.2.2
 matplotlib2tikz==0.6.17
-mistune==2.0.3
+mistune==3.3.0
 nbconvert==5.3.1
 mistune==0.8.3
 nbconvert==7.16.6
